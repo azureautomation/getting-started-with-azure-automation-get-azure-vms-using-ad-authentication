@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 2056,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/getting-started-with-azure-automation-get-azure-vms-using-ad-authentication/master/Get-AzureVMNamesSample.ps1",
+    "DownloadCount": 2957,
+    "Id": "Get-Azure-VMs-using-Active-fd862109",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 489,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-8-21T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook sample demonstrates how to connect to Azure using organization id credential based authentication.  It connects to Azure and retrieves the names of all VMs in the specified Azure subscription.",
+    "Title": "Getting Started with Azure Automation - Get Azure VMs using AD Authentication",
+    "UpdatedDate": "2014-12-13T00:00:00",
+    "Url": "https://github.com/azureautomation/getting-started-with-azure-automation-get-azure-vms-using-ad-authentication",
+    "UserTags": "Tutorial"
+}
